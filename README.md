@@ -17,8 +17,8 @@ Here are some information to me:
 
 🎉 My Open Source Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LiteraturePro&repo=Serverless-Python&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/LiteraturePro/Serverless-Python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LiteraturePro&repo=Serverless-Nodejs&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/LiteraturePro/Serverless-Nodejs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LiteraturePro&repo=Serverless-Python&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LiteraturePro&repo=Serverless-Nodejs&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🌈 My Github State
