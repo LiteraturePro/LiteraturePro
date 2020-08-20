@@ -23,4 +23,4 @@ Here are some information to me:
 
 🌈 My Github State
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiteraturePro&layout=compact)](https://github.com/LiteraturePro/)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiteraturePro)](https://github.com/LiteraturePro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiteraturePro&layout=compact)](https://github.com/LiteraturePro)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiteraturePro)](https://github.com/LiteraturePro)
