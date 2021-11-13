@@ -41,14 +41,14 @@ Here are some information to me:
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="20" src="https://github-profile-trophy.vercel.app/?username=rezsat&column=7&margin-w=15&margin-h=15&theme=onedark"/>
+    <img align="center" margin="20" src="https://github-profile-trophy.vercel.app/?username=LiteraturePro&column=7&margin-w=15&margin-h=15&theme=onedark"/>
   </a>
   </p>
 </div>
 <br />
 <div align="center">
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rezsat&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=LiteraturePro&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
 
   </p>
  </div>
